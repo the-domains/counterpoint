@@ -1,0 +1,28 @@
+name: Counterpoint
+favicon: null
+layout_spectrum: 0.8587666482198983
+typography_spectrum: 0.34084404702298343
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3278363849967718
+  lightness: 0.6255153303500265
+  saturation: 0.9175967110786587
+  rhythmicContrast: 0.24677115445956588
+purpose: []
